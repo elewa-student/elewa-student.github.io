@@ -27,9 +27,8 @@ Check out my projects:
 * JS 30 Gallery: [Code](https://github.com/elewa-student/elewa-student.github.io/blob/master/js-30-gallery.md), [Demo](https://elewa-student.github.io/js-30-gallery.html)
 * String Reverser: [Code](https://github.com/elewa-student/String-Reverser), [Demo](https://elewa-student.github.io/String-Reverser)
 * Project Planning: [Code](https://github.com/elewa-student/User-Centered-Development), [Demo](https://elewa-student.github.io/User-Centered-Development)
-* Analyzing Modules: [Code](https://elewa-student.github.io/Analyzing-Modules), [Demo](https://github.com/elewa-student/Analyzing-Modules)
+* Analyzing Modules: [Code](https://github.com/elewa-student/Analyzing-Modules), [Demo](https://elewa-student.github.io/Analyzing-Modules) 
 * Exploring Modules: [Code](https://github.com/elewa-student/Exploring-Modules)
-* Analyzing Modules: [Code](https://github.com/elewa-student/Analyzing-Architecture/tree/master)
 * Frontend-Backend: [Code](https://github.com/elewa-student/Frontend-Backend)
 * Vanilla Fullstack: [Code](https://github.com/elewa-student/Vanilla-Fullstack)
 
