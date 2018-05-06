@@ -1,6 +1,6 @@
 # My Portfolio
 
-A little bit about you, put it here.
+I'm a motivated student of life looking to expand into coding.  
 
 ### Index:
 * [Programmer's Oath](#programmers-oath)
