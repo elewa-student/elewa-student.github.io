@@ -32,7 +32,7 @@ My biggest take-away from the precourse was how hard this is.  I used to think i
 
 Projects:
 * [JavaScript reference repository](https://github.com/elewa-academy/javascript-template)
-* Pretty Things gallery: [Repo](), [Live]()
+* Pretty Things gallery: [Repo](https://github.com/elewa-student/pretty-things/), [Live](https://elewa-student.github.io/pretty-things/)
 * Final Project: [Repo](https://github.com/elewa-student/precourse-final-project), [Live](https://elewa-student.github.io/precourse-final-project)
 
 
